@@ -12,13 +12,13 @@ The hypothesis:
 - The Minimum Variance Portfolio and the Maximum Sharpe Ratio Portfolio 
 - Robust Optimisation 
 ## 3. The techniques for Covariance Matrics
--Eigenvalue Clipping 
--Oracle Estimator 
--Cross Validate Eigenvalue Shrinkage 
+- Eigenvalue Clipping 
+- Oracle Estimator 
+- Cross Validate Eigenvalue Shrinkage 
 ## 4. Comparison
--Eigenvalue Distribution 
--The cost of transaction, turnover and cumulative return
+- Eigenvalue Distribution 
+- The cost of transaction, turnover and cumulative return
 ## 5. Adding a risk-free asset
--The Capital Market Line 
--The metrics with free-risk assets 
+- The Capital Market Line 
+- The metrics with free-risk assets 
 ## 6. Conclusion
