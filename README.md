@@ -97,7 +97,7 @@ This is the project based on the 3A CentraleSupélec - Portfolio Allocation.
   ![image](https://user-images.githubusercontent.com/110284601/184870132-11b4917c-d317-46cf-8baf-5dad530221e0.png)
 
   ```
-    The MV portfolio has the following weights
+  The MV portfolio has the following weights
   [0.22 0.25 0.   0.08 0.09 0.12 0.   0.14 0.   0.08],
   has a risk of 11.26% and a return of 6.78%.
   It also has an effective diversification of 5.84 and 90% of weight are in  6 stocks.
