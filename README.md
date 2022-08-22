@@ -1,6 +1,13 @@
 # Portfolio-Allocation-Techniques-for-Processing-Covariance-Matrices.
 This is the project based on the 3A CentraleSupélec - Portfolio Allocation.
 
+### What we have reached
+
+The risk&return for different trading strategies.
+
+![image](https://user-images.githubusercontent.com/110284601/185873129-9439ccf6-d02d-472b-bc45-82a24151edf8.png)
+
+
 # SUMMARY
 
   ## 1. Introduction 
