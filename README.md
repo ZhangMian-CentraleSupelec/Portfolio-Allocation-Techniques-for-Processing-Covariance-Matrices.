@@ -1,5 +1,5 @@
 # Portfolio-Allocation-Techniques-for-Processing-Covariance-Matrices.
-This is the project based on the 3A CentraleSupélec - Portfolio Allocation.
+
 
 ### Key Result
 
