@@ -1,7 +1,7 @@
 # Portfolio-Allocation-Techniques-for-Processing-Covariance-Matrices.
 This is the project based on the 3A CentraleSupélec - Portfolio Allocation.
 
-### What we have reached
+### Key Result
 
 - The eigenvalue clipping is not useful.
 - The oracle estimator could improve the performance very very little.
