@@ -35,8 +35,7 @@ From the chart above:
 - The difference of the sharpe-ratio is mainly driven by estimation of the return.
 
  
-  
-  ## Results 
+ ## Results 
   
   - Eigenvalue clipping is useful ? It could decrease the return and increase the volatility. Sometimes it's a terrible techinique.
   
